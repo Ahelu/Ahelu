@@ -1,4 +1,4 @@
-<h2>✨ Hi, I'm Alejandra Luna! <img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="22" height="19"></h2>
+<h2>Hi, I'm Alejandra Luna! <img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="22" height="19"></h2>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p> <em> ~ I'm a computer systems engineering student at Juarez Autonomous University of Tabasco 🏛️.</br>I'm a curious learner of the technologies💡.</em></p>
