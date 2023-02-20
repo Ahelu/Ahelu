@@ -14,7 +14,7 @@
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
-  tools: [VsCode, React, Git]
+  tools: [VsCode, Git, Boostrap, Wordpress, WSL]
   techCommunities: {
                         speaker: "Women Techmakers",
                       },
