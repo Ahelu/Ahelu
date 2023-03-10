@@ -16,7 +16,7 @@ const thai = {
   code: [Javascript, HTML, CSS],
   tools: [VsCode, Git, Boostrap, Wordpress, WSL]
   techCommunities: {
-                        speaker: "Women Techmakers",
+                        Member: "Women Techmakers",
                       },
  challenge: "Become fullstack 😍"
 }
